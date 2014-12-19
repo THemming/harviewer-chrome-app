@@ -1,0 +1,3 @@
+[submodule "harviewer"]
+	path = harviewer
+	url = https://github.com/THemming/harviewer.git
