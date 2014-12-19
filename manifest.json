@@ -1,0 +1,14 @@
+{
+    "name": "HTTP Archive Viewer",
+    "description": "An HTTP Archive (HAR) viewer",
+    "version": "0.1",
+    "manifest_version": 2,
+    "sandbox": {
+      "pages": ["harviewer/index.html"]
+    },
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    }
+}

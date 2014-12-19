@@ -1,0 +1,3 @@
+[submodule "harviewer"]
+	path = harviewer
+	url = https://github.com/janodvarko/harviewer.git
