@@ -1,0 +1,22 @@
+{
+  "name": "harviewer-chrome-app",
+  "description": "An HTTP Archive (HAR) viewer",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^1.1.0",
+    "gulp": "^3.8.10",
+    "gulp-zip": "^2.0.2",
+    "q": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/THemming/harviewer-chrome-app.git"
+  },
+  "author": "Tim Hemming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/THemming/harviewer-chrome-app/issues"
+  },
+  "homepage": "https://github.com/THemming/harviewer-chrome-app"
+}

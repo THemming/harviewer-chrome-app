@@ -1,0 +1,16 @@
+{
+    "nonew": true,
+    "curly": true,
+    "noarg": true,
+    "forin": true,
+    "noempty": true,
+    "eqeqeq": true,
+    "undef": true,
+    "unused": true,
+    "sub": true,
+    "-W078": true,
+    "quotmark": "single",
+    "maxdepth": 5,
+    "maxcomplexity": 7,
+    "node": true
+}
