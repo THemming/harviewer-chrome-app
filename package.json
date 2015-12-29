@@ -14,6 +14,7 @@
   "homepage": "https://github.com/THemming/harviewer-chrome-app",
   "devDependencies": {
     "del": "^1.1.0",
+    "eslint": "^1.10.3",
     "gulp": "^3.8.10",
     "gulp-zip": "^2.0.2",
     "q": "^1.1.2"
