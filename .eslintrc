@@ -1,5 +1,6 @@
 /* http://eslint.org/docs/rules/ */
 {
+  "parser": "babel-eslint",
   "env": {
     "browser": true,
     "commonjs": true
