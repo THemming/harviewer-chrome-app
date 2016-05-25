@@ -2,7 +2,7 @@
   "name": "HTTP Archive Viewer",
   "short_name": "HAR Viewer",
   "description": "An HTTP Archive (HAR) viewer",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 2,
   "sandbox": {
     "pages": ["harviewer/index.html"]
